@@ -1,0 +1,10 @@
+[Core]
+name = IPLookup
+module = iplookup
+
+[Documentation]
+description = Interface to query for information about IP address at ip-api.com
+
+[Python]
+version = 3
+
